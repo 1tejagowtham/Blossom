@@ -1,3 +1,4 @@
+TO EXECUTE CALL python3 script.py
 
 AS PART OF CODECADEMY PROJECT:-
 
